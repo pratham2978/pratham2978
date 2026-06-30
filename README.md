@@ -18,7 +18,7 @@
 
 *Crafting code, learning patterns, and building real-world solutions.*
 
-- 🎓 **Education:** Second-year Computer Engineering Student
+- 🎓 **Education:** Third Year Engineering Student
 - 🌱 **Currently Learning:** Advanced MERN Stack, Java, and diving deeper into AI/ML
 - ⚔️ **Daily Grind:** Mastering Data Structures & Algorithms 
 - 🤝 **Open for:** Collaborations on Open Source projects and Hackathons
