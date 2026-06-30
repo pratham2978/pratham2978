@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/pratham2978">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%F0%9F%8E%93;Passionate+Full+Stack+Developer+%F0%9F%92%BB;Solving+DSA+Problems+Daily+%E2%9A%94%EF%B8%8F;Building+with+MERN+%26+Java+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Engineering+Student+%F0%9F%8E%93;Passionate+Full+Stack+Developer+%F0%9F%92%BB;Solving+DSA+Problems+Daily+%E2%9A%94%EF%B8%8F;Building+with+MERN+%26+Java+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 *Crafting code, learning patterns, and building real-world solutions.*
 
-- 🎓 **Education:** Third Year Engineering Student
+- 🎓 **Education:** Third Year Information Technology Engineering Student
 - 🌱 **Currently Learning:** Advanced MERN Stack, Java, and diving deeper into AI/ML
 - ⚔️ **Daily Grind:** Mastering Data Structures & Algorithms 
 - 🤝 **Open for:** Collaborations on Open Source projects and Hackathons
